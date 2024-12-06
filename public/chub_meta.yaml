@@ -2,7 +2,7 @@
 #   in which case these values can be managed in the UI.
 
 # The name of the stage.
-project_name: "Statosphere"
+project_name: "Statosphere (Xenos Edition)"
 
 tagline: "Give your bots variables and launch them into...the Stat-O-Sphere! (phere) (ere)"
 
@@ -236,8 +236,8 @@ state_schema:
 # github_path will be added if it does not exist. It is the URL of the repo.
 
 
-github_path: 'https://github.com/Lord-Raven/statosphere'
+github_path: 'https://github.com/IAmXenos14/statosphere-xenos'
 
 
-extension_id: 'statosphere-3704059fdd7e'
+extension_id: 'statosphere-3704059fdd7f'
 
